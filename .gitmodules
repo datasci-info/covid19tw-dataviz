@@ -1,0 +1,3 @@
+[submodule "viz/viz-dev-r/modified-twdata/leoluyi"]
+	path = viz/viz-dev-r/modified-twdata/leoluyi
+	url = https://github.com/leoluyi/covid19tw-viz
